@@ -1,0 +1,42 @@
+.shop_header img {
+  max-width: 100%;
+  height: auto;
+  vertical-align: middle;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 auto;
+}
+
+.foto1 {
+  position: sticky;
+  top: 0;
+}
+
+.shirts {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  gap: 20px;
+  padding: 20px 0;
+}
+
+.shirt {
+  max-width: 300px;
+}
+
+.shirt_image {
+  max-width: 100%;
+}
+
+.shirt_text {
+  padding-top: 20px;
+}
+
+.shirt_text_price {
+  font-weight: bold;
+}
+
+.shirt_text_description {
+  padding-top: 30px;
+}

@@ -1,0 +1,35 @@
+    .map iframe {
+        width: 800px;
+        height: 300px;
+    }
+    
+    .map {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    .tel1 h1 {
+        font-family: BebasNeueBold, Helvetica, sans-serif;
+        border-bottom: 2px solid #d9d9d9;
+        margin: 5px;
+    }
+    
+    .tel1 h4 {
+        font-family: BebasNeueBold, Helvetica, sans-serif;
+        margin: 5px;
+        border-bottom: 2px solid #d9d9d9;
+    }
+    
+    .tel1 {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    .tel {
+        width: 800px;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+    }

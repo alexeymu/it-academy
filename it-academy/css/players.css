@@ -1,0 +1,40 @@
+.teamg {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    flex-direction: row;
+}
+
+h3 {
+    margin-top: 15px;
+    margin-bottom: 28px;
+    color: black;
+    border-bottom: 1px solid #d9d9d9;
+    margin-left: 20px;
+}
+
+.team1 {
+    display: inline-block;
+    overflow: hidden;
+}
+
+.team1 img {
+    width: 250px;
+    height: 200px;
+    border-radius: 60px;
+    transition: all 1s ease-out;
+    margin-left: 20px;
+}
+
+.team1 img:hover {
+    transform: scale(0.9);
+}
+
+h4 {
+    margin: 15px 0 0 30px;
+    font-size: 18px;
+}
+
+.de_gea {
+    margin-left: 30px;
+}

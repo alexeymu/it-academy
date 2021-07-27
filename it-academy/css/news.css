@@ -1,0 +1,56 @@
+.bottom {
+    position: absolute;
+    bottom: 360px;
+    left: 16px;
+    color: white;
+    font-size: 30px;
+}
+
+.container {
+    position: relative;
+    text-align: center;
+}
+
+.bottom1 {
+    position: absolute;
+    bottom: 220px;
+    left: 16px;
+    color: white;
+    font-size: 31px;
+}
+
+.bottom2 {
+    position: absolute;
+    bottom: 220px;
+    left: 16px;
+    color: white;
+    font-size: 30px;
+}
+
+.bottom3 {
+    position: absolute;
+    bottom: 220px;
+    left: 16px;
+    color: white;
+    font-size: 30px;
+}
+
+.bottom4 {
+    position: absolute;
+    bottom: 220px;
+    left: 16px;
+    color: white;
+    font-size: 30px;
+}
+
+.bottom5 {
+    position: absolute;
+    bottom: 220px;
+    left: 16px;
+    color: white;
+    font-size: 30px;
+}
+
+.container div {
+    padding-bottom: 20px;
+}

@@ -1,0 +1,30 @@
+.video {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  max-width: 100%;
+}
+
+.video_mutv2 {
+  flex-direction: row;
+}
+
+iframe {
+  padding: 10px;
+  max-width: 100%;
+}
+
+.tur {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  border-bottom: 1px solid #d9d9d9;
+  padding: 0 10px;
+}
+
+@media (max-width: 768px) {
+  .video_mutv2 {
+    flex-direction: column;
+  }
+}

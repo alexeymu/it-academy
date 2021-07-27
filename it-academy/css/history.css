@@ -1,0 +1,44 @@
+.team_info {
+  background: #f8f8f8;
+  padding: 10px 20px;
+  margin-bottom: 20px;
+  width: 500px;
+}
+
+.team_info p {
+  border-bottom: 1px solid #eaeaea;
+}
+
+.team_about {
+  font-size: 13px;
+  color: #666;
+  min-width: 150px;
+  display: inline-block;
+}
+
+.team-about__header {
+  font-size: 16px;
+  font-weight: 700;
+  margin: 0 0 20px 0;
+}
+
+.team-about__history {
+  margin-bottom: 20px;
+}
+
+.team-about__header {
+  font-size: 16px;
+  font-weight: 700;
+  margin: 0 0 20px 0;
+}
+
+.team_history {
+  padding: 10px;
+}
+
+@media (max-width: 550px) {
+  .team_info {
+    width: auto;
+    padding: 10px;
+  }
+}
